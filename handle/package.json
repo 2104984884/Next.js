@@ -1,0 +1,28 @@
+{
+  "name": "1123213",
+  "version": "1.0.0",
+  "description": "wqeqwe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"next",
+    "build":"next build",
+    "start":"next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2104984884/Next.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2104984884/Next.js/issues"
+  },
+  "homepage": "https://github.com/2104984884/Next.js#readme",
+  "dependencies": {
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
